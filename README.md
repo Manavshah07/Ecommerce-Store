@@ -82,7 +82,7 @@
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/mdtalalwasim/Ecommerce_Store.git
+git clone https://github.com/Manavshah07/Ecommerce-Store
 cd Ecommerce_Store
 ```
 
