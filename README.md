@@ -1,7 +1,4 @@
 # Ecommerce Store
-
-**Java Spring Boot + Thymeleaf | MySQL | Spring Security**
-
 ---
 
 ## Project flow (how this application works)
