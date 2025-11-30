@@ -1,5 +1,4 @@
 # Ecommerce Store
----
 
 ## Project flow (how this application works)
 
